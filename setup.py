@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name="pymple",
-    version="1.0",
+    version="1.1",
     author="Andy Stanberry",
     author_email="andystanberry@gmail.com",
     url="https://github.com/cranberyxl/pymple",
